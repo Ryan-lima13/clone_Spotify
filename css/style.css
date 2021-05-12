@@ -1,4 +1,7 @@
 /*layout*/
+html,body,#home{
+    height: 100%;
+}
 body{
     background-image: url(../imagens/capa.png),
                     url(../imagens/ruido.png),
