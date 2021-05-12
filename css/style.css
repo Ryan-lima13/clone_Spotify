@@ -42,12 +42,13 @@ nav.navbar-light .navbar-toggler{
 }
 
 @media (max-width: 575.98px) { 
+ 
 
  }
 
 
 @media (min-width: 576px) and (max-width: 767.98px) { 
-    h1{
+    #home h1{
         font-size: 3em;
     }
 
@@ -55,16 +56,25 @@ nav.navbar-light .navbar-toggler{
 
 
 @media (min-width: 768px) and (max-width: 991.98px) { 
+    #home h1{
+        font-size: 4em;
+    }
     
  }
 
 
 @media (min-width: 992px) and (max-width: 1199.98px) { 
+    #home h1{
+        font-size: 5em;
+    }
 
 }
 
 
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
+    #home h1{
+        font-size: 6em;
+    } 
 
  }
 
