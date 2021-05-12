@@ -5,3 +5,8 @@ body{
                     linear-gradient(50deg,#ff4169,#7c26f8);
     background-attachment: fixed;
 }
+/*barra de navegação*/
+.navbar-transparente{
+    background: rgba(0, 0,0, 0.6);
+}
+
