@@ -54,6 +54,25 @@ nav.navbar-light .navbar-toggler{
     color: #7c25f8;
 
 }
+#recursos{
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}
+#recursos h2{
+    color: #fff;
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+#recursos h3{
+    color: #9bf0e1;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+#recursos p{
+    color: #fff;
+}
 /*tipografia*/
 #home h1{
     font-weight: 900;
