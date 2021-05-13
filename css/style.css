@@ -40,6 +40,20 @@ nav.navbar-light .navbar-toggler{
 .albuns{
     padding: 10px 0px;
 }
+#servicos h2{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+
+}
+#servicos h3{
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+
+}
 /*tipografia*/
 #home h1{
     font-weight: 900;
