@@ -40,6 +40,38 @@ nav.navbar-light .navbar-toggler{
     
     
 }
+ #home .btn-custom{
+    color: #fff;
+    border-radius: 500px;
+    -webkit-border-radius:500px;
+    -moz-border-radiud:500px;
+    text-transform: uppercase;
+    
+    
+    
+    padding: 10px 15px;
+    
+}
+#home .btn-roxo{
+    background:#7c25f8;
+    color: #000;
+}
+#home .btn-roxo:hover{
+    background: #fff;
+    color:#7c25f8;
+}
+
+
+#home .btn-branco{
+    border: 1px solid white;
+
+}
+
+#home .btn-branco:hover{
+    background: #fff;
+    color: #000;
+
+}
 
 @media (max-width: 575.98px) { 
  
