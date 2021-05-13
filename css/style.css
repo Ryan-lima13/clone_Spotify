@@ -31,6 +31,15 @@ nav.navbar-light .navbar-toggler{
 .capa{
     text-align: center;
 }
+/* EStrutura do conteúdo*/
+#servicos{
+    background: #fff;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}
+.albuns{
+    padding: 10px 0px;
+}
 /*tipografia*/
 #home h1{
     font-weight: 900;
