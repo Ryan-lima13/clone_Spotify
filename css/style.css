@@ -1,6 +1,7 @@
 /*layout*/
 html,body,#home{
     height: 100%;
+    overflow-x: hidden;
 }
 body{
     background-image: url(../imagens/capa.png),
@@ -39,6 +40,13 @@ nav.navbar-light .navbar-toggler{
 }
 .albuns{
     padding: 10px 0px;
+}
+.rotacionar{
+    
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+    padding-left: 80px;
 }
 #servicos h2{
     font-size: 3em;
