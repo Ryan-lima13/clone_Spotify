@@ -129,6 +129,9 @@ footer .navbar-nav a{
 footer .navbar-nav a:hover{
     color: #9bf0e1;
 }
+footer ul li{
+    float: right;
+}
 
 
 #home .btn-branco{
